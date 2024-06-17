@@ -35,6 +35,7 @@ button{
     background-image: linear-gradient(to right, #18A0BE, #622DB9);
     height: 55px;
     display: flex; /* flex-container 26:54*/
+    animation: fade-in-from-top 0.5s;
 }
 
 .logo{
